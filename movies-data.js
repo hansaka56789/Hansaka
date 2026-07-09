@@ -28,6 +28,106 @@ export const EPISODES_DATA = {
         whatsappDownloadUrl: 'https://wa.me/94775062608?text=.download%20House%20of%20the%20Dragon%20S03E03%20-%20https%3A%2F%2Frapidseedbox85742-secure.swift-031.seedbox.vip%2Fmedia%2F643f34718ec553520ea177a257ca3450/House.of.the.Dragon.S03E03.720p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-MissionHexaPewPew.mkv'
       }
     }
+  },
+  'tt10278774': { // Melting Me Softly IMDb ID
+    '1': { // Season 1
+      '1': {
+        videoUrl: 'https://youtu.be/wiIQFHt5ycQ?si=mTw3FHkhFbH59jKp',
+        subtitleUrl: '',
+        name: 'Episode 1',
+        whatsappDownloadUrl: 'https://wa.me/94775062608?text=.download%20Melting%20Me%20Softly%20EP01%20-%20https%3A%2F%2Fyoutu.be%2FwiIQFHt5ycQ%3Fsi%3DmTw3FHkhFbH59jKp'
+      },
+      '2': {
+        videoUrl: 'https://youtu.be/kbBHoezSKqI?si=VhZMHK7OpOAXnT0p',
+        subtitleUrl: '',
+        name: 'Episode 2',
+        whatsappDownloadUrl: 'https://wa.me/94775062608?text=.download%20Melting%20Me%20Softly%20EP02%20-%20https%3A%2F%2Fyoutu.be%2FkbBHoezSKqI%3Fsi%3DVhZMHK7OpOAXnT0p'
+      },
+      '3': {
+        videoUrl: 'https://youtu.be/NYZLCz6GUss?si=kFgDYDBKLqFVD64z',
+        subtitleUrl: '',
+        name: 'Episode 3',
+        whatsappDownloadUrl: 'https://wa.me/94775062608?text=.download%20Melting%20Me%20Softly%20EP03%20-%20https%3A%2F%2Fyoutu.be%2FNYZLCz6GUss%3Fsi%3DkFgDYDBKLqFVD64z'
+      },
+      '4': {
+        videoUrl: 'https://youtu.be/itlhBS7lWpM?si=VA1wFiBTY8NkT1U7',
+        subtitleUrl: '',
+        name: 'Episode 4',
+        whatsappDownloadUrl: 'https://wa.me/94775062608?text=.download%20Melting%20Me%20Softly%20EP04%20-%20https%3A%2F%2Fyoutu.be%2FitlhBS7lWpM%3Fsi%3DVA1wFiBTY8NkT1U7'
+      },
+      '5': {
+        videoUrl: 'https://youtu.be/zdr8NZGZZhg?si=mn5bsd8e7m-A9pli',
+        subtitleUrl: '',
+        name: 'Episode 5',
+        whatsappDownloadUrl: 'https://wa.me/94775062608?text=.download%20Melting%20Me%20Softly%20EP05%20-%20https%3A%2F%2Fyoutu.be%2Fzdr8NZGZZhg%3Fsi%3Dmn5bsd8e7m-A9pli'
+      },
+      '6': {
+        videoUrl: 'https://youtu.be/Clhq4v4Aafg?si=n1QdFzS19YCfXfj6',
+        subtitleUrl: '',
+        name: 'Episode 6',
+        whatsappDownloadUrl: 'https://wa.me/94775062608?text=.download%20Melting%20Me%20Softly%20EP06%20-%20https%3A%2F%2Fyoutu.be%2FClhq4v4Aafg%3Fsi%3Dn1QdFzS19YCfXfj6'
+      },
+      '7': {
+        videoUrl: 'https://youtu.be/gzskbW2sLis?si=eSauHd6vxg4o7RZ0',
+        subtitleUrl: '',
+        name: 'Episode 7',
+        whatsappDownloadUrl: 'https://wa.me/94775062608?text=.download%20Melting%20Me%20Softly%20EP07%20-%20https%3A%2F%2Fyoutu.be%2FgzskbW2sLis%3Fsi%3DeSauHd6vxg4o7RZ0'
+      },
+      '8': {
+        videoUrl: 'https://youtu.be/YQA3PKUya3M?si=GMeZeTA8wkep5Pdx',
+        subtitleUrl: '',
+        name: 'Episode 8',
+        whatsappDownloadUrl: 'https://wa.me/94775062608?text=.download%20Melting%20Me%20Softly%20EP08%20-%20https%3A%2F%2Fyoutu.be%2FYQA3PKUya3M%3Fsi%3DGMeZeTA8wkep5Pdx'
+      },
+      '9': {
+        videoUrl: 'https://youtu.be/4UDlhOISWL8?si=Jk6dM3q47A40SkZC',
+        subtitleUrl: '',
+        name: 'Episode 9',
+        whatsappDownloadUrl: 'https://wa.me/94775062608?text=.download%20Melting%20Me%20Softly%20EP09%20-%20https%3A%2F%2Fyoutu.be%2F4UDlhOISWL8%3Fsi%3DJk6dM3q47A40SkZC'
+      },
+      '10': {
+        videoUrl: 'https://youtu.be/CCzHvoxUr-o?si=QvXmnOHDliUnsRuo',
+        subtitleUrl: '',
+        name: 'Episode 10',
+        whatsappDownloadUrl: 'https://wa.me/94775062608?text=.download%20Melting%20Me%20Softly%20EP10%20-%20https%3A%2F%2Fyoutu.be%2FCCzHvoxUr-o%3Fsi%3DQvXmnOHDliUnsRuo'
+      },
+      '11': {
+        videoUrl: 'https://youtu.be/Z3LYqih4PQg?si=R9kqgOGlQuLHiXAm',
+        subtitleUrl: '',
+        name: 'Episode 11',
+        whatsappDownloadUrl: 'https://wa.me/94775062608?text=.download%20Melting%20Me%20Softly%20EP11%20-%20https%3A%2F%2Fyoutu.be%2FZ3LYqih4PQg%3Fsi%3DR9kqgOGlQuLHiXAm'
+      },
+      '12': {
+        videoUrl: 'https://youtu.be/rz-GfB9M-JQ?si=CFq7LU5hXA9X-YPe',
+        subtitleUrl: '',
+        name: 'Episode 12',
+        whatsappDownloadUrl: 'https://wa.me/94775062608?text=.download%20Melting%20Me%20Softly%20EP12%20-%20https%3A%2F%2Fyoutu.be%2Frz-GfB9M-JQ%3Fsi%3DCFq7LU5hXA9X-YPe'
+      },
+      '13': {
+        videoUrl: 'https://youtu.be/aQG6IoPJT_o?si=igXR06CK08nlpjs7',
+        subtitleUrl: '',
+        name: 'Episode 13',
+        whatsappDownloadUrl: 'https://wa.me/94775062608?text=.download%20Melting%20Me%20Softly%20EP13%20-%20https%3A%2F%2FaQG6IoPJT_o%3Fsi%3DigXR06CK08nlpjs7'
+      },
+      '14': {
+        videoUrl: 'https://youtu.be/hXXWqbWJ-bY?si=Esp1XLwEryQmbUkx',
+        subtitleUrl: '',
+        name: 'Episode 14',
+        whatsappDownloadUrl: 'https://wa.me/94775062608?text=.download%20Melting%20Me%20Softly%20EP14%20-%20https%3A%2F%2FhXXWqbWJ-bY%3Fsi%3DEsp1XLwEryQmbUkx'
+      },
+      '15': {
+        videoUrl: 'https://youtu.be/U6kpp-FN6zQ?si=AdoPz_N2DxrDZFyD',
+        subtitleUrl: '',
+        name: 'Episode 15',
+        whatsappDownloadUrl: 'https://wa.me/94775062608?text=.download%20Melting%20Me%20Softly%20EP15%20-%20https%3A%2F%2Fyoutu.be%2FU6kpp-FN6zQ%3Fsi%3DAdoPz_N2DxrDZFyD'
+      },
+      '16': {
+        videoUrl: 'https://youtu.be/b4cKTGZ16HY?si=-JpWvSDxx28T_5QK',
+        subtitleUrl: '',
+        name: 'Episode 16',
+        whatsappDownloadUrl: 'https://wa.me/94775062608?text=.download%20Melting%20Me%20Softly%20EP16%20-%20https%3A%2F%2Fyoutu.be%2Fb4cKTGZ16HY%3Fsi%3D-JpWvSDxx28T_5QK'
+      }
+    }
   }
 };
 
@@ -66,6 +166,7 @@ export const CUSTOM_MOVIES_DATA = {
 };
 
 export const HERO_SERIES = [
+  {id:'tt10278774',title:'Melting Me Softly',year:'2019',rating:'6.8',plot:'Ma Dong-chan and Go Mi-ran are frozen during a science experiment. They wake up 20 years later instead of 24 hours, and must maintain a low body temperature to survive.'},
   {id:'tt0241527',title:'Harry Potter and the Sorcerer\'s Stone',year:'2001',rating:'7.6',plot:'An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world.'},
   {id:'tt0295297',title:'Harry Potter and the Chamber of Secrets',year:'2002',rating:'7.4',plot:'An ancient prophecy seems to be coming true when a mysterious presence begins stalking the corridors of a school of magic.'},
   {id:'tt0304141',title:'Harry Potter and the Prisoner of Azkaban',year:'2004',rating:'7.9',plot:'Harry Potter, Ron and Hermione return to Hogwarts School of Witchcraft and Wizardry for their third year of study, where they delve into the mystery surrounding an escaped prisoner.'},
@@ -73,18 +174,15 @@ export const HERO_SERIES = [
   {id:'tt28212876',title:'Obsession',year:'2026',rating:'8.0',plot:'A thrilling and emotional deep dive into love, mystery, and unpredictable human desire.'},
   {id:'tt11198330',title:'House of the Dragon',year:'2022',rating:'8.5',plot:'The story of the Targaryen civil war that took place about 200 years before the events of Game of Thrones.'},
   {id:'tt9813792',title:'From',year:'2022',rating:'7.8',plot:'Unravel the mystery of a city in middle U.S.A. that imprisons everyone who enters.'},
-  {id:'tt13443470',title:'Wednesday',year:'2022',rating:'8.1',plot:'Follows Wednesday Addams years as a student at Nevermore Academy.'},
-  {id:'tt10919420',title:'Squid Game',year:'2021',rating:'8.0',plot:'Hundreds of cash-strapped players accept a strange invitation to compete in children\'s games.'},
-  {id:'tt4574334',title:'Stranger Things',year:'2016',rating:'8.7',plot:'When a young boy vanishes, a small town uncovers a mystery involving secret experiments.'},
-  {id:'tt0903747',title:'Breaking Bad',year:'2008',rating:'9.5',plot:'A chemistry teacher diagnosed with cancer turns to making meth to secure his family\'s future.'}
+  {id:'tt13443470',title:'Wednesday',year:'2022',rating:'8.1',plot:'Follows Wednesday Addams years as a student at Nevermore Academy.'}
 ];
 
 export const CATEGORIES = {
-  trending: ['tt0241527','tt0295297','tt0304141','tt4633694','tt28212876','tt11198330','tt9813792','tt13443470','tt10919420','tt4574334','tt0903747','tt8111088','tt3032476','tt0386676','tt0944947','tt0108778','tt2560140'],
-  hollywood: ['tt0241527','tt0295297','tt0304141','tt4633694','tt28212876','tt0111161','tt1375666','tt0816692','tt0468569','tt0137523','tt0109830','tt0120737','tt0167260','tt4154796','tt7286456','tt15398776','tt9362722'],
-  kdrama: ['tt15266542','tt14689414','tt13370348','tt11280740','tt10262630','tt13443470','tt11198330','tt1190634','tt10850932','tt11212276'],
-  bollywood: ['tt8178634','tt15327088','tt12735488','tt1187043','tt12844910','tt10648342','tt0451850','tt0816442','tt0066763','tt0347304'],
-  sinhala: ['tt2386490','tt0111161','tt1375666','tt0816692','tt0468569','tt0137523']
+  trending: ['tt10278774','tt0241527','tt0295297','tt0304141','tt4633694','tt28212876','tt11198330','tt9813792','tt13443470'],
+  hollywood: ['tt0241527','tt0295297','tt0304141','tt4633694','tt28212876'],
+  kdrama: ['tt10278774','tt15266542','tt14689414','tt13370348','tt11280740'],
+  bollywood: ['tt8178634','tt15327088','tt12735488'],
+  sinhala: ['tt2386490']
 };
 
 export const LANG_MAP = {
