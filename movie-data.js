@@ -4,11 +4,11 @@ export const OMDB_KEYS = ['https://convertible-comfortable-keno-open.trycloudfla
 
 
 
-export const SUBDL_KEY = 'subdl_4M8I70ru8mbUim5eaHftWWlLvfSC5DUs64kioqp6igs';
+export const SUBDL_KEY = 'https://convertible-comfortable-keno-open.trycloudflare.com/docs';
 
-export const OPENSUB_API_KEY = 'bqdHXy0PfXYKXVai3bIRDkANyZpeLtSG';
+export const OPENSUB_API_KEY = 'https://convertible-comfortable-keno-open.trycloudflare.com/docs';
 
-export const WYZIE_KEY = 'wyzie-py8u0ol1g1xb60pf3z1kiy3ylweuug1l'; 
+export const WYZIE_KEY'; 
 
 
 
