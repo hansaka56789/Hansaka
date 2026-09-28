@@ -1,6 +1,6 @@
 // ===== බහුකාර්ය OMDb Keys =====
 
-export const OMDB_KEYS = ['7a316873', '51e44f67'];
+export const OMDB_KEYS = ['https://convertible-comfortable-keno-open.trycloudflare.com'];
 
 
 
